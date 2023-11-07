@@ -1,0 +1,36 @@
+Tipos de Redes:
+Los tipos de redes son por Extencion, Topologia y Funcion
+
+Extencion:
+
+Wan: Wide area network un tipo de red que abarca una superficie bastante 
+amplia y conecta multiples dispositivos. 
+
+Pan:
+
+Man:Metropolitan area network un tipo de red que conecta multiples edificios 
+dispositivos de una zona para que compartan recursos.
+
+Lan:Local area network  un tipo de red que suele ser muy reducida en su area
+normalmente una habitacion, casa o nave.
+
+Topologia:
+
+Bus: Un cable principal que conecta multiples dispositivos.
+
+Estrella:Utiliza un Host para los demas dispositivos , el host se encarga de manejar la coneccion y si se cae se caen todos
+pero aunque caigan los demas dispositivos la red se mantiene.
+
+Arbol: Utiliza un backbone para trasmitir informacion y tiene una jerarquia.
+
+Malla: Es una red compusta de tal manera quer la informacion tiene varias formas de moverce entre los dispositivos asi que
+en caso de que una se caiga un nodo la red se mantiene. 
+
+Anillo:Todos los dispositivos estan conectados en forma de circulo si uno cae, caen todos. Este tipo de red esta en deshuso
+
+Funcion:
+
+Peer to Peer: Un red donde los nodos son iguales y no hay relacion de dependencia
+
+Servidor Cliente: Una red donde un servidor se encarga de los demas clientes.
+
